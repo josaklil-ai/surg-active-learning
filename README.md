@@ -16,9 +16,9 @@ For cholecSeg8k
 For m2caiSeg
 - `python run.py --dataset 'm2caiseg' --val_size 31 --n_init 10 --n_query 4 --n_rounds 51 --n_exp 3 --query 8`
 
-Query Method | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
---- | --- | --- | --- | --- | --- | --- | --- |
---- | Random | Max entropy sampling | Margins sampling | Least confidence sampling | Coreset | DEAL | ALGES-img (ours) | ALGES-seg (ours) |
+| Query Method | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Random | Max entropy sampling | Margins sampling | Least confidence sampling | Coreset | DEAL | ALGES-img (ours) | ALGES-seg (ours) |
 
 ## References
 1. Fu J, Liu J, Tian H, et al. [Dual attention network for scene segmentation](https://arxiv.org/pdf/1809.02983.pdf) // Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 3146-3154.

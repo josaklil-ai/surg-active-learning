@@ -28,5 +28,7 @@ For m2caiSeg
 | 8 | ALGES-seg (ours) |
 
 ## References
+Some code adopted from the [DeepAL](https://github.com/ej0cl6/deep-active-learning) and [ViewAL](https://github.com/nihalsid/ViewAL) repos. 
+
 1. Fu J, Liu J, Tian H, et al. [Dual attention network for scene segmentation](https://arxiv.org/pdf/1809.02983.pdf) // Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 3146-3154.
 2. Xie S, Feng Z, Chen Y, et al. [DEAL: Difficulty-aware Active Learning for Semantic Segmentation](https://arxiv.org/pdf/2010.08705.pdf) //

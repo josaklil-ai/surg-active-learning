@@ -1,6 +1,6 @@
 # ALGES: Active Learning with Gradient Embeddings for Semantic Segmentation of Laparoscopic Surgical Images
 
-This is the official implementation for the paper *[Josiah Aklilu, Serena Yeung, "ALGES: Active Learning with Gradient Embeddings for Semantic Segmentation of Laparoscopic Surgical Images"](google.com)*. 
+This is the official implementation for the paper *[Josiah Aklilu, Serena Yeung, "ALGES: Active Learning with Gradient Embeddings for Semantic Segmentation of Laparoscopic Surgical Images"](https://www.mlforhc.org/2022-accepted-papers)*. 
 
 ### Run
 

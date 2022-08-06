@@ -11,7 +11,7 @@ To obtain the fully supervised model peformance on the held out test set for a p
 To run the experiments from the paper, run the following for each dataset with a specific AL query strategy (e.g. 7 = ALGES-img or 8 = ALGES-seg):
 
 For cholecSeg8k
-- `python run.py --dataset 'cholecseg8k' --val_size 820 --n_init 50 --n_query 10 --n_rounds 30 --n_exp 3 --query 7`
+- `python run.py --dataset 'cholecseg8k' --test_size 1640 --n_init 50 --n_query 10 --n_rounds 30 --n_exp 3 --query 7`
 
 For m2caiSeg
 - `python run.py --dataset 'm2caiseg' --val_size 31 --n_init 10 --n_query 4 --n_rounds 51 --n_exp 3 --query 8`
